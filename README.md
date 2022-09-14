@@ -1,4 +1,5 @@
-# web-Scrapper-NodeJs
-
-# axios :  
-axios is a JavaScript library used to make HTTP requests from node. js or XMLHttpRequests from the browser
+# web-scraping-with-node
+This is a simple web scraping example with JavaScript (node.js packages)
+- Package used: Request and Cheerio
+- Webpage scraped:quill.com
+- Download - npm install - node index.js
